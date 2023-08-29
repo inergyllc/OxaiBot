@@ -45,7 +45,7 @@ Please see the [section below](#add-an-identity-provider) for important informat
 [More information about Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/use-your-data)
 
 1. Update the `AZURE_OPENAI_*` environment variables as described above. 
-2. To connect to your data, you need to specify an Azure Cognitive Search index to use. You can [create this index yourself](https://learn.microsoft.com/en-us/azure/search/search-get-started-portal) or use the [OilWrx EnerGAI Studio](https://oai.azure.com/portal/chat) to create the index for you.
+2. To connect to your data, you need to specify an Azure Cognitive Search index to use. You can [create this index yourself](https://learn.microsoft.com/en-us/azure/search/search-get-started-portal) or use the [Azure AI Studio](https://oai.azure.com/portal/chat) to create the index for you.
 
     These variables are required when adding your data:
     - `AZURE_SEARCH_SERVICE`
